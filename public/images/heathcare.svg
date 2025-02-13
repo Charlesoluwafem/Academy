@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1BB6D730-68B7-42A4-ABBE-31B99C277587</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="224" height="184" rx="8"></rect>
+        <filter x="-8.0%" y="-10.3%" width="118.8%" height="122.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0411812309 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Academy---Home-1" transform="translate(-752.000000, -1620.000000)">
+            <g id="Group-13" transform="translate(240.000000, 1308.000000)">
+                <g id="Group-8" transform="translate(496.000000, 296.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F5FCFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="icon/category/heathcare" transform="translate(16.000000, 16.000000)">
+                        <rect id="Rectangle" fill="#FFD230" x="0" y="0" width="40" height="40" rx="8"></rect>
+                        <g id="001-heart-rate" transform="translate(6.000000, 9.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M15.12,14.09625 C14.9487769,14.3213674 14.6828278,14.454342 14.4,14.45625 C14.0609191,14.4558489 13.7510251,14.2643414 13.599,13.96125 L11.592,9.94725 L10.647,11.35125 C10.4819808,11.6033124 10.2012743,11.7555026 9.9,11.75625 L0.9,11.75625 C0.402943725,11.75625 -3.19744231e-15,12.1591937 -3.19744231e-15,12.65625 C-3.19744231e-15,13.1533063 0.402943725,13.55625 0.9,13.55625 L6.06771,13.55625 L12.762,21.37725 C12.9351606,21.5742996 13.1837006,21.6887588 13.446,21.69225 C13.7062019,21.69085 13.95279,21.5757756 14.121,21.37725 L23.247,10.85625 L17.55,10.85625 L15.12,14.09625 Z" id="Path"></path>
+                            <path d="M26.1,7.25625 L25.0164,7.25625 C25.1855079,6.10670249 25.0470083,4.93287216 24.615,3.85425 C23.7940777,1.72512836 21.8305951,0.250769533 19.557,0.05625 C17.2719137,-0.131110938 15.0307611,0.761354003 13.5,2.46825 C11.9702184,0.759951241 9.72833924,-0.132803004 7.443,0.05625 C5.16116024,0.249200354 3.19165305,1.73245266 2.376,3.87225 C1.5496483,5.8816508 1.80049964,8.17321171 3.042,9.95625 L9.414,9.95625 L10.953,7.66125 C11.1275292,7.39222253 11.4330263,7.23757193 11.7531666,7.25618473 C12.0733069,7.27479754 12.3588235,7.46380941 12.501,7.75125 L14.553,11.85525 L16.38,9.41625 C16.5512231,9.1911326 16.8171722,9.05815801 17.1,9.05625 L26.1,9.05625 C26.5970563,9.05625 27,8.65330627 27,8.15625 C27,7.65919373 26.5970563,7.25625 26.1,7.25625 L26.1,7.25625 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

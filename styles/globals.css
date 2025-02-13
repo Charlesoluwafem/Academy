@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* global.css or custom CSS file for react-phone-input-2 */
+/* global.css or custom CSS for react-phone-input-2 */
+
+/* Custom styles for react-phone-input-2 dropdown */
+/* global.css or custom CSS file for react-phone-input-2 */
+
+.react-tel-input .country-list {
+  /* Ensure that the dropdown list has enough space to display the search bar and country options */
+  max-height: 200px;
+  overflow-y: auto;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.react-tel-input .country-list .search {
+  /* Style the search input field */
+  padding: 8px 12px;
+  border-bottom: 1px solid #e2e2e2;
+  background-color: #f7f7f7;
+  color: #333;
+  font-size: 14px;
+}
+
+.react-tel-input .country-list .country {
+  /* Style each country in the list */
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease;
+}
+
+.react-tel-input .country-list .country:hover {
+  background-color: #f0f0f0;
+}
+
+.react-tel-input .country-list .country.highlight {
+  /* Style for the highlighted country */
+  background-color: #007BFF;
+  color: white;
+}
+
+.react-tel-input .flag-dropdown {
+  /* Adjust the flag dropdown container */
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>E03D285B-FE53-496C-BAF3-48B23984E342</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="280" height="168" rx="8"></rect>
+        <filter x="-7.1%" y="-11.9%" width="115.7%" height="126.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0682142564 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Academy---Home-1" transform="translate(-561.000000, -1032.000000)">
+            <g id="Group-12" transform="translate(-60.000000, 631.000000)">
+                <rect id="Rectangle" fill="#F0F4F6" x="60" y="41" width="1440" height="576"></rect>
+                <g id="Group-8" transform="translate(605.000000, 385.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#71AACA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="icon/checkbox" transform="translate(16.000000, 16.000000)" fill="#F4F4F4" fill-rule="nonzero">
+                        <g id="Shape">
+                            <path d="M12.0011894,24 C5.37613683,23.99268 0.0072727208,18.6243649 0,12.0000109 L0,11.7600111 C0.131929076,5.16545307 5.56205926,-0.0864261749 12.158045,0.00107774578 C18.7540187,0.0885936665 24.0428229,5.48268478 23.9997386,12.0783708 C23.9566544,18.6741648 18.5977632,23.99868 12.0011894,24 Z M6.49264349,11.5080113 L4.80047578,13.2000098 L9.60095156,18.0000054 L19.2019031,8.40001414 L17.5097354,6.69601568 L9.60095156,14.6040085 L6.49264349,11.5080113 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

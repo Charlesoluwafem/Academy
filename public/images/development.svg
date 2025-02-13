@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8C1575C3-389F-4250-B622-E36C776F1F70</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="224" height="184" rx="8"></rect>
+        <filter x="-8.0%" y="-10.3%" width="118.8%" height="122.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="3" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="6.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0411812309 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Academy---Home-1" transform="translate(-504.000000, -1412.000000)">
+            <g id="Group-13" transform="translate(240.000000, 1308.000000)">
+                <g id="Group-8" transform="translate(248.000000, 88.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#F5FCFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="icon/category/development" transform="translate(16.000000, 16.000000)">
+                        <rect id="Rectangle" fill="#71AACA" x="0" y="0" width="40" height="40" rx="8"></rect>
+                        <g id="001-programming" transform="translate(8.000000, 11.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0,6 L0,19 L24,19 L24,6 L0,6 Z M14.4244219,10.2804754 L15.4187812,9.34007059 L18.744375,12.4852154 L15.4187812,15.6303603 L14.4244219,14.6899555 L16.7556562,12.4852154 L14.4244219,10.2804754 Z M12.3136406,8.08517792 L13.686375,8.37368753 L11.6863594,16.8853416 L10.313625,16.596832 L12.3136406,8.08517792 Z M8.58126562,9.34007059 L9.575625,10.2804754 L7.24439062,12.4852154 L9.575625,14.6899555 L8.58126562,15.6303603 L5.25567188,12.4852154 L8.58126562,9.34007059 Z" id="Shape"></path>
+                            <path d="M24,5 L24,0 L0,0 L0,5 L24,5 Z M4.8249375,3.19320877 L3.4186875,3.19320877 L3.4186875,1.78696317 L4.8249375,1.78696317 L4.8249375,3.19320877 Z M7.76404687,3.19320877 L6.35779687,3.19320877 L6.35779687,1.78696317 L7.76404687,1.78696317 L7.76404687,3.19320877 Z M10.7031094,3.19320877 L9.29685937,3.19320877 L9.29685937,1.78696317 L10.7031094,1.78696317 L10.7031094,3.19320877 Z" id="Shape"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
