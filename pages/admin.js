@@ -1,5 +1,5 @@
 import { useState } from "react";
-//import { LayoutDashboard, Bell, User, BookOpen, CheckCircle } from "lucide-react";
+import { LayoutDashboard, Bell, User, BookOpen, CheckCircle } from "lucide-react";
 
 export default function AdminPanel() {
   const [tab, setTab] = useState("dashboard");
