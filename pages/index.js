@@ -22,7 +22,7 @@ export default function Home() {
   ></div>
 
   {/* Image Section */}
-  <img 
+  <Image
     src="/images/image.png" 
     alt="Upskilling Platform" 
     className="w-full h-full object-cover object-left scale-x-[1] z-0"
