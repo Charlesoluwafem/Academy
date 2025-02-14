@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-//import { X } from "lucide-react";
+import { X } from "lucide-react";
 
 const DemoRequest = () => {
   const [step, setStep] = useState(1); // Step control
